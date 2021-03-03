@@ -7,7 +7,7 @@
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 
 # java-interview-quizzes
-A repo containing interview quizzes in Java
+A repo containing interview quizzes in Java.
 
 ### Meta
 
